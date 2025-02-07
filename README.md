@@ -38,7 +38,7 @@ Takes two numbers and returns the sum.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+⚡[@aneeshk888](https://github.com/aneeshk888)😎
 
 
 ## Badges
