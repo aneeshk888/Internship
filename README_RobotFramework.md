@@ -83,7 +83,7 @@ Import Component Example
 ```
 Author    ⚡ [@aneeshk888](https://github.com/aneeshk888) 😎
 License   MIT, GPLv3, AGPL
-Docs      [Documentation](https://linktodocumentation)
+Docs      [Documentation](https://robotframework.org/)
 Code of Conduct    Please adhere to this project's `code of conduct`
 ```
 
@@ -111,9 +111,9 @@ Code of Conduct    Please adhere to this project's `code of conduct`
 | --------- | -------- | --------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
+#### Architecture
 
-Takes two numbers and returns the sum.
+https://miro.medium.com/v2/resize:fit:666/1*F7wbpjGsENByvoRqh7BPgQ.png
 
 ## Authors
 
@@ -121,4 +121,4 @@ Takes two numbers and returns the sum.
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png
