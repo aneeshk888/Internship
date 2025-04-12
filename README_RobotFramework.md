@@ -113,7 +113,8 @@ Code of Conduct    Please adhere to this project's `code of conduct`
 
 #### Architecture
 
-https://miro.medium.com/v2/resize:fit:666/1*F7wbpjGsENByvoRqh7BPgQ.png
+![1_F7wbpjGsENByvoRqh7BPgQ](https://github.com/user-attachments/assets/487ee4bb-968a-4800-9888-8cd86c22782f)
+
 
 ## Authors
 
@@ -121,4 +122,5 @@ https://miro.medium.com/v2/resize:fit:666/1*F7wbpjGsENByvoRqh7BPgQ.png
 
 ## Badges
 
-https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png
+![Robot-framework-logo](https://github.com/user-attachments/assets/b45d4c65-aa56-499f-bede-ad702d69db4a)
+
